@@ -1,0 +1,8 @@
+network_id,network_name,chain_name,collection_count,total_volume
+1,Ethereum,ethereum,5842,13466879582
+2,ImmutableX,immutablex,100,66959373
+3,Solana,solana,1774,58871821
+4,BSC,bsc,19,43177294
+5,Terra,terra,61,19414566
+6,Arbitrum,arbitrum,10,8023700
+7,Cardano,cardano,139,2619323
